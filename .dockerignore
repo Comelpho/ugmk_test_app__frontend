@@ -1,0 +1,6 @@
+node_modules
+build
+.AUTHOR
+.README.md
+.dockerignore
+.example.env

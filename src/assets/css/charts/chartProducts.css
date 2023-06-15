@@ -1,0 +1,32 @@
+.chartProducts {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.chartProducts__filterBlock {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  padding: 20px;
+  border: 2px solid #000;
+  border-radius: 15px;
+  margin: 0 0 30px 0;
+}
+
+.chartProducts__filterBlock__title {
+  font-size: 22px;
+  margin: 0 10px 0 0;
+}
+
+.chartProducts__filterBlock__select {
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+.chartProducts__chartBlock {
+  width: 100%;
+  padding: 20px;
+  border: 2px solid #000;
+  border-radius: 15px;
+}
